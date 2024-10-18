@@ -125,12 +125,4 @@ word
 ...     print("word")
 ... 
 ...     
->>> 
->>> if "word" in a:
-...     print(word)
-... 
-...     
-Traceback (most recent call last):
-  File "<pyshell#87>", line 2, in <module>
-    print(word)
-NameError: name 'word' is not defined. Did you mean: 'ord'?
+>>>
